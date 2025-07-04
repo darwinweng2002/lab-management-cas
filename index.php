@@ -31,7 +31,7 @@
 			<div class="col-md-12">
 				<div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-4">
 					<div class="login-panel panel panel-default">
-						<div class="panel-heading">Laboratory Management System</div>
+						<div class="panel-heading">BURAT</div>
 						<div class="panel-body">
 							<form class="frm_index">
 								<fieldset>
@@ -44,7 +44,7 @@
 									<br>
 									<button class="btn btn-primary btn-block">Log in</button>
 									<br>
-									<a href="./member/login"> Go to Member's Pagasdasdasdae</a>
+									<a href="./member/login"> Go to Member's Page</a>
 								</fieldset>
 							</form>
 						</div>
